@@ -11,6 +11,21 @@ Expert in functional reactive programming and declarative style of UI implementa
 
 It is essential to me to make business value, cause I dedicate myself to work and can’t imagine another way of life.
 
+<details>
+
+<summary>
+    ❤️My work values
+</summary>
+
+<br>
+
+- I'm looking forward to a match in work values! For me, work values are about how decisions are made: how people are hired, how they are dismissed, etc. It’s crucial that all these processes are transparent, systematic and non-toxic.
+- I resonate with companies that consider how to reduce the risk of employee burnout.
+- I desire a company that understands its mission and acts accordingly.
+- It would be fantastic if the company embraced a mix of flat and hierarchical decision-making structures (no absolute power concentrated in the hands of a few from the management) but also not fully distributed democracy either.
+
+</details>
+
 ## What I currently Do
 
 - 🏢 I’m currently working at Moi Sound as Senior iOS Software Engineer 
@@ -232,23 +247,6 @@ I'm a solo developer creating the app from scratch.
     <img src="resources/screenshots/Esport/esport-3.png" width="350"/>
     <img src="resources/screenshots/Esport/esport-4.png" width="350"/>
 </div>
-
-<br>
-
-<details>
-
-<summary>
-  ❤️My work values
-</summary>
-
-<br>
-
-- I'm looking forward to a match in work values! For me, work values are about how decisions are made: how people are hired, how they are dismissed, etc. It’s crucial that all these processes are transparent, systematic and non-toxic.
-- I resonate with companies that consider how to reduce the risk of employee burnout.
-- I desire a company that understands its mission and acts accordingly.
-- It would be fantastic if the company embraced a mix of flat and hierarchical decision-making structures (no absolute power concentrated in the hands of a few from the management) but also not fully distributed democracy either.
-
-</details>
 
 <br>
 
