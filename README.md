@@ -1,6 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Maksim%20Khozyasev-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-khozyashev/) 
 [![Mail Badge](https://img.shields.io/badge/-maksim.khozyashev@icloud.com-f25f5c?style=flat&labelColor=f25f5c&logo=gmail&logoColor=white)](mailto:maksim.khozyashev@icloud.com)
-[![CV Badge](https://img.shields.io/badge/-CV-4cb963?style=flat&labelColor=4cb963&logo=googledocs&logoColor=white)](https://github.com/m-khozyashev/m-khozyashev/blob/main/resources/Maksim Khozyashev - Senoir iOS Developer - CV.pdf?raw=true)
+[![CV Badge](https://img.shields.io/badge/-CV-4cb963?style=flat&labelColor=4cb963&logo=googledocs&logoColor=white)](https://github.com/m-khozyashev/m-khozyashev/blob/main/resources/Maksim_Khozyashev_Senoir_iOS_Developer_CV.pdf?raw=true)
 
 ## Hi I'm Maksim <img src="resources/icons/waving_hand.gif" width="28px" height="28px" alt="hi">
 I'm Maksim Khozyashev an iOS Software Engineer with 8+ years of commercial experience. 
